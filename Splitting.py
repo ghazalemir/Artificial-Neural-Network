@@ -49,31 +49,27 @@ Testxyz_copy = Testxyz.copy()
 Testxyz_copy.to_csv('Tset.csv') 
 
 
-# In[ ]:
 
 
 
 
 
-# In[ ]:
 
 
 
 
 
-# In[ ]:
 
 
 
 
 
-# In[ ]:
 
 
 
 
 
-# In[ ]:
+
 
 
 
